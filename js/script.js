@@ -74,3 +74,10 @@ const personalMovieDB = {
         }
     }
 };
+
+personalMovieDB.showMyDB();
+personalMovieDB.start();
+personalMovieDB.detectPersonalLevel();
+personalMovieDB.rememberMyFilms();
+personalMovieDB.writeYourGenres();
+personalMovieDB.toggleVisibleMyDB();
